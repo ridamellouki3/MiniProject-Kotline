@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Super Machine</string>
+    <string name="title_txt">Super Slot Machine</string>
+    <string name="solde">Your balance: %1$d$</string>
+    <string name="JOUER">PLAY</string>
+    <string name="amount1">1$</string>
+    <string name="amount2">2$</string>
+    <string name="amount5">5$</string>
+    <string name="cass">Daredevil</string>
+    <string name="ajout100">To add 100$</string>
+    <string name="entr_vtr">Enter your secret code</string>
+    <string name="secret">Secret Code</string>
+</resources>

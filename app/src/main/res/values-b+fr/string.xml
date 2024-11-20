@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super machine</string>
+    <string name="title_txt">Super machine à sous</string>
+    <string name="solde">Vos actifs : %1$d$</string>
+    <string name="JOUER">JOUER</string>
+    <string name="amount1">1$</string>
+    <string name="amount2">2$</string>
+    <string name="amount5">5$</string>
+    <string name="cass">Casse-cou</string>
+    <string name="ajout100">Pour ajouter 100$</string>
+    <string name="entr_vtr">Entrer votre code secret</string>
+    <string name="secret">Code secret</string>
+</resources>
